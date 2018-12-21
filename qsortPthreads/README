@@ -1,0 +1,8 @@
+21.12.2018
+qsort
+pthreads
+
+>make
+>./sort.exe <SIZEARR>
+>compile check
+>./check.exe
