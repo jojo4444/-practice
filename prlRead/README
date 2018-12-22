@@ -1,0 +1,9 @@
+23.12.18
+
+parallel read vs linear read
+
+used: nanosec, pthread.h, dirent.h and trivial
+
+> ./gen <cnt_files>
+> make
+> ./read
